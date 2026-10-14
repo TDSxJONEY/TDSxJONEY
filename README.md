@@ -24,7 +24,7 @@ Full-Stack Developer • AI Engineer • Open Source Contributor
 - 🌱 Currently learning **System Design, Distributed Systems & AI Agents**
 - 💬 Ask me about **React, Next.js, Node.js, Python, AI/ML & RAG**
 - 🧠 **650+ DSA problems** solved
-- 🏆 **450+ LeetCode problems** solved
+- 🏆 **500+ LeetCode problems** solved
 - 📫 Reach me at **joney.dev17@gmail.com**
 - 🌐 Portfolio: **https://joney.vercel.app**
 
